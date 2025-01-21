@@ -91,7 +91,7 @@ div.container {
 
 .dataSection1__title {
     font-family: 'Arial', sans-serif;
-    text-align:center;
+    text-align: center;
     color: #b0188f;
 }
 
@@ -112,13 +112,13 @@ div.container {
 
 .dataSection2__title {
     font-family: 'Arial', sans-serif;
-    text-align:center;
+    text-align: center;
     color: #b0188f;
 }
 
 .dataSection2__txt {
     font-family: 'Arial', sans-serif;
-    text-align:center;
+    text-align: center;
 }
 
 .dataSection3 {
@@ -133,13 +133,13 @@ div.container {
 
 .dataSection3__title {
     font-family: 'Arial', sans-serif;
-    text-align:center;
+    text-align: center;
     color: #b0188f;
 }
 
 .dataSection3__txt {
     font-family: 'Arial', sans-serif;
-    text-align:center;
+    text-align: center;
 }
 
 .dataSection4 {
@@ -154,14 +154,14 @@ div.container {
 
 .dataSection4__title {
     font-family: 'Arial', sans-serif;
-    text-align:center;
+    text-align: center;
     color: #b0188f;
 }
 
 .dataSection4__txt {
     font-family: 'Arial', sans-serif;
     font-size: .75rem;
-    text-align:center;
+    text-align: center;
 }
 
 .lastSection__flexbox {
@@ -188,9 +188,15 @@ div.container {
 }
 
 .lastSection__flexbox>div {
-    margin: 0rem;
+    margin: 3rem;
 }
 
 .lastSection__txt {
-    padding: 2.375rem .135rem 0rem .135rem;
+    padding: 2.375rem .135rem 2.5rem .135rem;
+}
+
+.lastSection__img {
+    z-index: 7;
+    width: 3.125rem;
+    min-height: 3.125rem;
 }
